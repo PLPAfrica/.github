@@ -1,12 +1,16 @@
-## Hi there 👋
+# PLPAfrica
 
-<!--
+Welcome to the Power Learn Project (PLP) GitHub organization! This account was created to facilitate collaboration between students participating in the PLP software developer training program across Africa.
 
-**Here are some ideas to get you started:**
+## About PLP
+PLP is an organization that aims to train the next generation of software developers across Africa. Our 16-week training program covers a range of modules including:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Dart w/ Flutter
+- Web Development
+- Python Programming
+- Database Programming
+- Soft Skills and Entrepreneurship
+
+Our goal is to equip students with the skills they need to succeed in today's tech industry and empower them to make a positive impact in their communities.
+
+
