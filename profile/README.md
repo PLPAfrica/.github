@@ -1,4 +1,7 @@
-# PLPAfrica
+<div align="center">
+  <h1>PLPAfrica</h1>
+</div>
+
 
 Welcome to the Power Learn Project (PLP) GitHub organization! This account was created to facilitate collaboration between students participating in the PLP software developer training program across Africa.
 
